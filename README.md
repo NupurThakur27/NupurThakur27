@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - GoLang
 - CRUD APIs
 > 🌱 I’m currently learning
-- Kubernetes
-- Microservices/Service Mesh
+- Docker and Kubernetes
+- Microservices and Service Mesh
 > 📫 How to reach me: 
 - [LinkedIn](www.linkedin.com/in/nupurthakur27)
 - [Twitter](https://twitter.com/nupurthakur27)
