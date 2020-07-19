@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/nupurthakur27)
 - [Instagram](https://www.instagram.com/nupurthakur27/)
 - [Facebook](https://www.facebook.com/nupurthakur27)
-> 😄 Pronouns: She/her
+>
+😄 Pronouns: She/her
 <!--
 - ⚡ Fun fact: ... 
 -->
