@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+
 > 🔭 I’m currently working on
 - GoLang
 - CRUD APIs
@@ -41,4 +42,5 @@ Here are some ideas to get you started:
 -->
 
 ![Nupur Thakur's github stats](https://github-readme-stats.vercel.app/api?username=nupurthakur27&show_icons=true&theme=tokyonight)
-
+<br/>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nupurthakur27)
