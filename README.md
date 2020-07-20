@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - Microservices and Service Mesh
 - Illustration
 > 📫 How to reach me: 
-<br/>
 <a href="https://twitter.com/nupurthakur27">
   <img align="left" alt="Nupur Thakur| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -33,6 +32,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/nupurthakur27">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br/>
 <br/>
 
 > 😄 Pronouns: She/her
