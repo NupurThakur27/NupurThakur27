@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/nupurthakur27">
   <img align="left" alt="Nupur Thakur| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/nupurthakur27">
+<a href="https://www.linkedin.com/in/nupurthakur27">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/nupurthakur27">
