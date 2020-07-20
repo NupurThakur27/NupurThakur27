@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-![image](https://github-readme-stats.vercel.app/api?username=NupurThakur27&&&&show_icons=true&theme=onedark")
+![Nupur Thakur's github stats](https://github-readme-stats.vercel.app/api?username=nupurthakur27&show_icons=true&theme=tokyonight)
 
