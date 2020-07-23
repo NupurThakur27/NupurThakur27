@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - Docker and Kubernetes
 - Microservices and Service Mesh
 - Illustration
+- EFK
 > 📫 How to reach me: 
 <a href="https://twitter.com/nupurthakur27">
   <img align="left" alt="Nupur Thakur| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
