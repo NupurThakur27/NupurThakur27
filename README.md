@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 > 🔭 I’m currently working on
 - GoLang
 - CRUD APIs
+- PostgreSQL
+- Docker
+- SendGrid
+
 > 🌱 I’m currently learning
 - Docker and Kubernetes
 - Microservices and Service Mesh
