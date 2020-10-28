@@ -45,8 +45,5 @@ Here are some ideas to get you started:
 <!--
 - ⚡ Fun fact: ... 
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nupurthakur27)
-<br/>
-<!--![Nupur Thakur's github stats](https://github-readme-stats.vercel.app/api?username=nupurthakur27&show_icons=true&theme=tokyonight) -->
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nupurthakur27)
