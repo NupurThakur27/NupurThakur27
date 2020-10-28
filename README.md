@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - GoLang
 - CRUD APIs
 - PostgreSQL
-- Docker
+- Docker and k8s
 - SendGrid
 
 > 🌱 I’m currently learning
