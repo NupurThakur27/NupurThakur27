@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - PostgreSQL
 - Docker and k8s
 - SendGrid
-- New Relic
 
 > 🌱 I’m currently learning
 - Docker and Kubernetes
