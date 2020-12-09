@@ -10,11 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working on Go, Postgres, Docker
+ 🔭 I’m currently working on Go, Postgres, Docker
 
-- 🌱 I’m currently learning k8s
+ 🌱 I’m currently learning k8s
 
-- 📫 How to reach me: 
+ 📫 How to reach me: 
+ 
 <a href="https://twitter.com/nupurthakur27">
   <img align="left" alt="Nupur Thakur| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 👯 Pronouns: She/her
+👯 Pronouns: She/her
 <!--
 - ⚡ Fun fact: ... 
 -->
