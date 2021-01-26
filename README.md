@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on Go, Postgres, Docker, k8s, GCP, AWS
 
- 🌱 I’m currently learning k8s
+ 🌱 I’m currently learning k8s, cronjobs
 
  📫 How to reach me: 
  
