@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
- 🔭 I’m currently working on Go, Postgres, Docker, k8s, GCP, AWS
+ 🔭 I’m currently working on AWS, Terraform, DevOPs
 
- 🌱 I’m currently learning k8s, cronjobs
+ 🌱 I’m currently learning Terraform
 
  📫 How to reach me: 
  
