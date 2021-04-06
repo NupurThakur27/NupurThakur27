@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
- 🔭 I’m currently working on AWS, Terraform, DevOPs
+ 🔭 I’m currently working on AWS, Terraform, DevOps
 
  🌱 I’m currently learning Terraform
 
